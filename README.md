@@ -16,7 +16,7 @@ This project aims to analyze car sales and profits for SwiftAuto Traders, a chai
 ## About the Dataset
 The dataset used for this project comes from the IBM Accelerator Catalog. A modified subset of the data is provided for this lab. It contains historical car sales data, including metrics like quantity sold, profit, model, dealer ID, and more.
 
-- **Terms of Use:** [IBM Developer Terms of Use](https://developer.ibm.com/terms/ibm-developer-terms-of-use/)
+- **Dataset Used in this Assignment:** [Car Sales Dataset](https://community.ibm.com/accelerators/?context=analytics&type=Data&product=Cognos%20Analytics&industry=Automotive)
 
 ## Part 1: Excel Visualizations
 
