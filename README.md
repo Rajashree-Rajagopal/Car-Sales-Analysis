@@ -1,17 +1,15 @@
 # Car-Sales-Analysis
 
 ## Overview
-This project aims to analyze car sales and profits for SwiftAuto Traders, a chain of car dealerships. The task involves creating visualizations and presenting them as a dashboard or report to the regional manager. The analysis is divided into two parts, focusing on Excel and dashboard creation using Google's Looker Studio.
+This project aims to analyze car sales and profits for SwiftAuto Traders, a chain of car dealerships. The task involves creating visualizations and presenting them as a dashboard or report to the regional manager. The analysis is divided into two parts, focusing on Excel and dashboard creation using IBM Cognos.
 
 ## Project Structure
 
-1. **Part 1: Create Visualizations using Excel**
-    - Develop several charts to analyze car sales and profits, including bar charts, line charts, and column charts.
-    - Save the final workbook as `CarSalesByModelEnd.xlsx`.
+1. **Part 1: Visualizations using Excel**
+    - Developed several charts to analyze car sales and profits, including bar charts, line charts, and column charts in the workbook as `CarSalesByModelEnd.xlsx`.
 
-2. **Part 2: Create Visualizations using IBM’s Cognos Analytics (OR Google's Looker Studio)**
+2. **Part 2: Visualizations using IBM’s Cognos Analytics**
     - Develop a dashboard/report with KPIs, bar charts, column charts, treemaps, heatmaps, and more.
-    - Export the final dashboard/report as a PDF.
 
 ## About the Dataset
 The dataset used for this project comes from the IBM Accelerator Catalog. A modified subset of the data is provided for this lab. It contains historical car sales data, including metrics like quantity sold, profit, model, dealer ID, and more.
